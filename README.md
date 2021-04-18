@@ -1,5 +1,5 @@
 # Refactor-The-Soup
-My first refactor project. Adding accessibility for all to enjoy!
+This is my first refactor project. Adding accessibility for all to enjoy!
 In this project, we have taken an existing website and refactored teh HTML and CSS Files.
 When reading this HTML file, you will see added comments to better define each section.
 As the name "Refactor-The-Soup" implies, we are cleaning up the HTML file of the many div elements.
