@@ -61,7 +61,7 @@ a {
     margin-left: 20px;
 }
 
-article{
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -69,6 +69,10 @@ article{
     background-color: #0072bb;
     color: #ffffff;
     font-size: 16px;
+}
+
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+    max-height: 200px;
 }
 
 .float-left {
@@ -79,10 +83,6 @@ article{
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
-    max-height: 200px;
 }
 
 h2 {
