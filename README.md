@@ -11,4 +11,3 @@ I have also removed repeated CSS styling and rearranged our style sheet to match
 
 Below is the link to my deployed application!
 https://bcannon88.github.io/Refactor-The-Soup/
-
