@@ -97,7 +97,7 @@ h2 {
 /* Our Article And Content Overview Styling End*/
 
 /*Styling For The Benefits Section*/
-aside {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;

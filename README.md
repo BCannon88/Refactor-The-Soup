@@ -8,3 +8,8 @@ By implementing these changes, we are better able to style our page more accurat
 While refactoring the HTML file, we are also consolidating the CSS file.
 By replacing div with other commonly used tags, we can see more clearly what styles are affecting what tags.
 I have also removed repeated CSS styling and rearranged our style sheet to match the semantic structure of the HTML.
+
+Below is the link to my deployed application!
+https://bcannon88.github.io/Refactor-The-Soup/
+
+![Alt-text](relative/path/to/)
