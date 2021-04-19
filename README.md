@@ -1,11 +1,11 @@
 # Refactor-The-Soup
 
-##Purpose
+## Purpose
 To clean up this DIV soup for other developers to work with ease.To also ensure site functions properly and HTML5 and CSS follow semantic order.
 
-##Built With
-*HTML5
-*CSS
+## Built With
+* HTML5
+* CSS
 
 
 This is my first refactor project. Adding accessibility for all to enjoy!
